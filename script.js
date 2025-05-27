@@ -25,3 +25,12 @@ var navbarNav = document.querySelector('.navbar-nav');
 hamMenu.addEventListener('click', () =>{
   navbarNav.classList.toggle('active');
     })
+
+
+
+
+    document.getElementById("resumeLink").addEventListener("click", function (e) {
+      // Optional: Log the event or add animation
+      console.log("Resume icon clicked!");
+      // Resume opens in a new tab via anchor's default behavior
+    });
