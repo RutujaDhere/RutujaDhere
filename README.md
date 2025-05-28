@@ -5,6 +5,9 @@ Welcome to my personal portfolio website! This project is a dynamic, interactive
 ## 📸 Preview
 [Live Demo](https://rutujadhere.github.io/RutujaDhere/)  
 
+## 📦 Project Status
+
+> **Note:** This project is currently undergoing an upgrade from a static HTML/CSS/JavaScript implementation to a React-based architecture. The goal is to enhance maintainability, scalability, and future development flexibility.
 
 
 📫 Contact
