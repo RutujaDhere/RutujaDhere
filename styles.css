@@ -50,6 +50,10 @@ p{
     color: #888888;
 }
 
+.skill-card span{
+  color: #888888;
+}
+
 hr{
     /* color: #fff !important; */
     border: dotted #EAF6F6 6px !important;
