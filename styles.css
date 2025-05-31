@@ -984,6 +984,7 @@ footer {
 
   .home-container .name{
     font-size: 3.52rem;
+    text-align: center;
   }
 
   .about-me-container .my-info {
@@ -1012,12 +1013,16 @@ footer {
 @media (max-width: 550px) and (min-width: 300px) {
   .home-container .name{
     font-size: 3.40rem;
+    text-align: center;
   }
   .skills-grid {
     width: 15rem;
   }
   .contact-content{
     padding: 0 3rem;
+  }
+  .laptop-wrapper {
+    margin-top: 5rem;
   }
 }
 
