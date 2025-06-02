@@ -1027,35 +1027,26 @@ footer {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .navbar-nav.active {
   display: flex !important;
   flex-direction: column !important;
   position: absolute;
   right: 3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.glow-bg{
+  background: radial-gradient(circle, rgba(255,255,255,0.05), rgba(0,0,0,0) 70%);
+
 }

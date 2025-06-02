@@ -34,3 +34,11 @@ hamMenu.addEventListener('click', () =>{
       console.log("Resume icon clicked!");
       // Resume opens in a new tab via anchor's default behavior
     });
+
+
+
+    document.addEventListener("mousemove", e => {
+      document.querySelector('.sparkle-container').style.transform =
+        `translate(${(e.clientX - window.innerWidth/2)*0.01}px, ${(e.clientY - window.innerHeight/2)*0.01}px)`;
+    });
+    
